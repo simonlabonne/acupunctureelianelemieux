@@ -1,0 +1,10 @@
+items:
+  - title: Éliane Lemieux
+    subtitle: Acupunctrice
+    description: |-
+      Thérapeute depuis 2001, j'accompagne et conseille une clientèle variée et de tous âges dans une démarche visant le bien-être, la santé et la vitalité.
+      
+    image: /img/eliane-lemieux.jpg
+    image_ratio: is-16by9
+    link: https://simonlabonne.github.io/elianelemieux.ca/a-propos
+    link_text: En savoir plus à propos de moi
