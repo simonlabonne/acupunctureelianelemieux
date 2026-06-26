@@ -2,6 +2,9 @@
 title: Acupuncture Éliane Lemieux
 timezone: America/New_York
 collections:
+  acupuncture:
+    title: Acupuncture
+    output: true
   posts:
     title: Posts
     output: true
