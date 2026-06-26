@@ -1,0 +1,186 @@
+---
+---
+
+// $vert: #495443;
+// $vertf: #2c3329;
+
+// $vert: #506B50;
+// $vertf: #2a382a;
+
+// $vert: #50594e;
+// $vertf: #292e28;
+
+$vert: #445341;
+$vertf: #2d362b;
+$vertp: #71896c;
+
+$noir: #000;
+$jaune: #c3a078;
+$jaunef: #a28c44;
+
+$primary: $vert;
+$body-color: $noir;
+
+@import "main";
+
+// @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700');
+@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+
+html {
+    font-size: 16px;
+}
+
+body {
+    background-color: #f2f2f2;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+}
+
+a {
+  color: $jaune;
+    &:hover {
+        color: $jaunef;
+    }
+}
+
+table {
+    margin:auto;
+}
+
+small, .small {
+    font-size: 90%;
+}
+
+li::marker {
+    color: $jaune;
+}
+
+.text-secondary {
+    color: $vertp!important;
+}
+
+.navbar {
+    margin-bottom: 2rem;
+}
+
+h1, h2, h3 {
+    font-family: 'Cutive Mono', monospace;
+    margin-bottom: 2rem;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2rem;
+    color: $vertf;
+}
+
+h2 {
+    text-align: center;
+    font-size: 1.75rem;
+    color: $vert;
+}
+
+h4 {
+    font-size: 1.25rem;
+    color: $vert;
+}
+
+img {
+    max-width: 100%;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+}
+
+.alert-dark {
+    background: $vertf;
+    text-align: center;
+    margin: 0;
+    border-radius: 0;
+    h2 {
+        color:#fff;
+        text-transform: uppercase;
+    }
+    color: #fff;
+    p {
+        margin-bottom: 1rem;
+        margin: 2rem 0 !important;
+        margin-top: -1rem!important;
+    }
+}
+
+.card-header {
+    button {
+        font-size: 1.5rem; 
+    }
+}
+
+.btn-primary {
+    color: #fff;
+}
+
+.table {
+    width: initial;
+}
+
+.accordion .fa{
+    margin-right: 0.5rem;
+    float: right;
+    font-size: 1.25rem;
+    margin-top: 8px;
+}
+
+p {
+    margin-bottom: 1rem;
+}
+
+li {
+    margin-bottom: 0.5rem;
+}
+
+.jumbotron {
+    border-radius:0;
+}
+
+.navbar-nav {
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 15px;
+}
+
+.row {
+    padding-bottom: 2rem;
+}
+
+.tab-pane {
+    padding: 2rem;
+    background-color: white;
+    
+}
+
+.card-header {
+    background-color: transparent;
+}
+
+.nav-tabs .nav-link h2 {
+    font-size: 0.9rem;
+    margin-bottom: 0;
+    font-family: inherit;
+}
+
+p:last-child {
+    margin-bottom: 0;
+}
+
+.btn-link {
+    color: $vertp;
+}
+
+.accordion .fa {
+    margin-right: 0.5rem;
+    float: right;
+    font-size: 1rem;
+    margin-top: 10px;
+}
