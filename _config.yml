@@ -5,7 +5,7 @@ collections:
   acupuncture:
     title: Acupuncture
     output: true
-  artricles:
+  articles:
     title: Articles à lire
     output: true
   posts:
