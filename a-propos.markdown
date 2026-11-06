@@ -3,36 +3,44 @@ title: À propos
 date: 2026-06-26 10:07:00 -04:00
 ---
 
-Intéressée par la santé depuis toujours, je me suis très tôt dirigée vers les médecines alternatives. Ces approches répondaient à mon souhait d'aborder la santé de façon globale, de soulager les symptômes tout en cherchant la source du problème, et de traiter en profondeur et en douceur, en évitant autant que possible les effets secondaires liés à une prise de médicaments.
+Intéressée par la santé et les divers facteurs qui contribuent à son équilibre, je me suis très tôt orientée vers les médecines alternatives. L’approche globale visant un soulagement des symptômes tout en portant attention à la source des déséquilibres m’a grandement interpellé. D’autant plus que le travail se fait en douceur, en profondeur et permet, dans certains cas, d’éviter ou de réduire le recours à la médication ou encore, d’atténuer certains effets indésirables pouvant y être associés.
 
-Je suis thérapeute depuis 2001, d'abord comme masso-kinésithérapeute, puis comme herboriste-naturopathe, et maintenant comme acupunctrice. Depuis toutes ces années, j'ai le bonheur d'accompagner les personnes dans une démarche visant le bien-être et la vitalité. Qu'il s'agisse de remédier à des déséquilibres particuliers ou de maintenir la santé, mon approche est axée sur l'écoute, le respect, l'honnêteté et l'expérience.
+Je suis thérapeute depuis 2001, d’abord comme masso-kinésithérapeute, puis comme herboriste-naturopathe et finalement comme acupunctrice. Depuis toutes ces années, j’ai le bonheur d’accompagner des personnes de tous âges et avec des conditions variées dans une démarche visant le bien-être et la vitalité, autant lors de déséquilibres particuliers que pour maintenir la santé.
+
+Mon approche est axée sur l’écoute, le respect, la douceur et l’honnêteté.
+
+Je pratique à mon bureau privé, dans une ambiance professionnelle, calme et chaleureuse.
 
 Je pratique à mon bureau privé, dans une ambiance professionnelle, calme et chaleureuse.
 
 ## Parcours
 
-Plus de 6000 heures de formations en médecines alternatives :
+***Diplôme en acupuncture **(Technique au cégep de Rosemont incluant 2000h de formation spécifique à l’acupuncture)*
 
-* Diplôme en acupuncture (DEC technique) - Cégep de Rosemont
+*Formations continues :*
 
-  * Technique du Dr Tan niveau 1
+* À venir en mai 2027 : L’art des pouls (Jean Motte)
 
-  * Formation GuaSha, Francis Létourneau.Ac
+* À venir en février 2027 : Gynécologie, les applications en acupuncture (Dominique Cornellier)
 
-  * Formation ventouses thérapeutiques, Francis Létourneau.Ac
+* À venir en janvier 2027 : Les addictions, méthode Chiapi (Yves Requena)
 
-  * Formation de RCR (Réanimation cardio respiratoire) renouvelée aux 2 ans)
+* 2026 : Approche méridiens par la technique du Dr Tan niveau 1 et 2 (Frédéric Bourges)
 
-* Diplôme en herboristerie-naturopathie et formations continues
+* 2026 : Recherches scientifiques en acupuncture (Stéphanie Racette)
 
-* Diplôme en masso-kinésithérapie et formations continues
+* 2025 : RCR (Réanimation cardio respiratoire), renouvelée aux 2 ans
 
-*Les formations autres qu'en acupuncture sont ici à titre indicatif, mais ne font pas partie des traitements en acupuncture.*
+* 2018 : GuaSha (Francis Létourneau)
 
-## Expériences
+* 2018 : Ventouses thérapeutiques (Francis Létourneau)
 
-Expérience de travail, comme travailleuse autonome, en cliniques multidisciplinaires, en milieu de travail, en bureau privé et lors d'événements.
+***Diplôme en herboristerie-naturopathie et formations continues*** (2500 h)
+
+***Diplôme en masso-kinésithérapie et formations continues*** (1500 h)
+
+\* les formations en herboristerie et en massothérapie sont ici à titre indicatif, mais ne font pas partie des traitements en acupuncture.
 
 ## Collaborations et référencement
 
-Dans certains cas, un suivi avec différents professionnel.le.s peut favoriser l'atteinte de résultats. Je n'hésite pas à référer et à collaborer au besoin.
+Dans certains cas, la combinaison de différentes approches peut favoriser l’atteinte de résultats. Pour cette raison, je n’hésite pas à référer et à collaborer au besoin.
