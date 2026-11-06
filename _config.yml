@@ -11,16 +11,8 @@ collections:
   uploads:
     title: Uploads
     output: true
-defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    layout: post
-    permalink: "/posts/:title/"
-- scope:
-    path: ''
-    type: pages
-  values:
-    layout: page
-permalink: pretty
+sass:
+  style: compressed
+  source_dir: _sass
+vert1_color: "#292e28"
+vert2_color: "#1a2618"
