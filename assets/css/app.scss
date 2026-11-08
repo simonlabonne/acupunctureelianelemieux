@@ -1,24 +1,12 @@
----
----
-
-// $vert: #495443;
-// $vertf: #2c3329;
-
-// $vert: #506B50;
-// $vertf: #2a382a;
-
-// $vert: #50594e;
-// $vertf: #292e28;
-
-$vert: #445341;
-$vertf: #2d362b;
-$vertp: #71896c;
+$mauve: #8c6972;
+$mauvef: #736363;
+$mauvep: #403d3c;
 
 $noir: #000;
-$jaune: #c3a078;
-$jaunef: #a28c44;
+$jaune: #a6806a;
+$jaunef: #896652;
 
-$primary: $vert;
+$primary: $mauve;
 $body-color: $noir;
 
 @import "main";
@@ -57,7 +45,7 @@ li::marker {
 }
 
 .text-secondary {
-    color: $vertp!important;
+    color: $mauvep!important;
 }
 
 .navbar {
@@ -72,18 +60,18 @@ h1, h2, h3 {
 h1 {
     text-align: center;
     font-size: 2rem;
-    color: $vertf;
+    color: $mauvef;
 }
 
 h2 {
     text-align: center;
     font-size: 1.75rem;
-    color: $vert;
+    color: $mauve;
 }
 
 h4 {
     font-size: 1.25rem;
-    color: $vert;
+    color: $mauve;
 }
 
 img {
@@ -95,7 +83,7 @@ img {
 }
 
 .alert-dark {
-    background: $vertf;
+    background: $mauvef;
     text-align: center;
     margin: 0;
     border-radius: 0;
