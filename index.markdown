@@ -7,3 +7,4 @@ hero_link: "/rendez-vous"
 hero_link_text: Prendre rendez-vous
 layout: homepage
 ---
+
