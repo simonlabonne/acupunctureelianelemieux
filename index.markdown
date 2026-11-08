@@ -1,6 +1,5 @@
 ---
-title: Acupuncture
-subtitle: Éliane Lemieux
+title: Acupuncture Éliane Lemieux
 hero_image: "/uploads/manfredrichter-grasses-7413098_1920.jpg"
 hero_height: is-fullheight
 hero_link: "/rendez-vous"
