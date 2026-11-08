@@ -6,7 +6,8 @@ date: 2026-06-26 10:47:00 -04:00
 ## Horaire
 
 <table class="table table-striped" style="width:100%">
-<tbody><tr>
+<tbody>
+<tr>
 <td>Lundi</td>
 <td>9 h 30 à 13 h 30</td>
 </tr>
@@ -26,7 +27,8 @@ date: 2026-06-26 10:47:00 -04:00
 <td>Vendredi</td>
 <td>9 h à 12 h 30</td>
 </tr>
-</tbody></table>
+</tbody>
+</table>
 
 ## Tarifs
 
