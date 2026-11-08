@@ -1,6 +1,7 @@
 ---
 title: Prendre rendez-vous
 date: 2026-06-26 10:53:00 -04:00
+layout: default
 ---
 
 Par téléphone&nbsp;: <a href="tel:514-299-3617">514&nbsp;299-3617</a>
