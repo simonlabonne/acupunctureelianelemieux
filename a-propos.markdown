@@ -11,11 +11,13 @@ Mon approche est axée sur l’écoute, le respect, la douceur et l’honnêtet�
 
 Je pratique à mon bureau privé, dans une ambiance professionnelle, calme et chaleureuse.
 
-Je pratique à mon bureau privé, dans une ambiance professionnelle, calme et chaleureuse.
+Bienvenu.e.s !
 
 ## Parcours
 
-***Diplôme en acupuncture **(Technique au cégep de Rosemont incluant 2000h de formation spécifique à l’acupuncture)*
+### Plus de 6000 heures de formations en médecines alternatives
+
+**Diplôme en acupuncture** *(Technique au cégep de Rosemont incluant 2000h de formation spécifique à l’acupuncture)*
 
 *Formations continues :*
 
