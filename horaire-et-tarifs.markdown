@@ -31,7 +31,8 @@ date: 2026-06-26 10:47:00 -04:00
 ## Tarifs
 
 <table class="table table-striped">
-<tbody><tr>
+<tbody>
+<tr>
 <td>1<sup>er</sup> rendez-vous, ouverture de dossier</td>
 <td class="has-text-right">120&nbsp;$</td>
 </tr>
@@ -40,7 +41,8 @@ date: 2026-06-26 10:47:00 -04:00
 <td class="has-text-right">100&nbsp;$</td>
 </tr>
 <tr>
-</tbody></table>
+</tbody>
+</table>
 
 <p>Reçu d'assurance de <br>(<a href="https://o-a-q.org/" target="_blank">l'Ordre des acupuncteurs du Québec</a>)</p>
 
