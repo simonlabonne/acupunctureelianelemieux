@@ -1,6 +1,7 @@
 ---
 title: Horaire et tarifs
 date: 2026-06-26 10:47:00 -04:00
+layout: default
 ---
 
 ## Horaire
