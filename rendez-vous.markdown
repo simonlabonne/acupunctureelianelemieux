@@ -24,3 +24,4 @@ politique: |-
   Merci de votre compréhension et de votre collaboration !
 layout: rendez-vous
 ---
+
