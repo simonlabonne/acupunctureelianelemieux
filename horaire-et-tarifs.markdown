@@ -52,5 +52,7 @@ tarifs: |-
 
   <p class="text-secondary"><small><em>Les frais en acupuncture sont exonérés de taxes, sont couvert par la majorité des assurances et peuvent faire partie des réclamations de frais de santé dans le rapport d’impôt.</em></small></p>
 layout: horaire-et-tarifs
+premiere_image: "/uploads/flower-4271835_1920.jpg"
+deuxieme_image: "/uploads/flower-4271835_1920.jpg"
 ---
 
