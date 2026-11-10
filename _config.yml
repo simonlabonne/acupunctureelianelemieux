@@ -5,6 +5,9 @@ collections:
   articles:
     title: Articles à lire
     output: true
+  faq:
+    title: FAQ
+    output: true
   posts:
     title: Posts
     output: true
