@@ -4,7 +4,7 @@ timezone: America/New_York
 collections:
   acupuncture:
     title: Acupuncture
-    output: true
+    output: false
   articles:
     title: Articles à lire
     output: true
