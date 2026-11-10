@@ -6,13 +6,13 @@ layout: default
 
 {% assign list_articles = site.articles | sort:"position" %}
 {% for article in list_articles %}
-<!-- Card clickable with title, image, link -->
-<a href="{{ article.link }}">
+<a href="{{ article.link }}" class="d-flex align-items-center">
+  <img src="{{ article.image }}">
   <div>
     <h3>{{ article.title }}</h3>
-    <img src="{{ article.image }}" style="width: 100px;">
     <!-- Bootstral <a> url button to open the link -->
     <a href="{{ article.link }}" class="btn btn-primary">Lire l'article</a>
   </div>
 </a>
+
 {% endfor %}
