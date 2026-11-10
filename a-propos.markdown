@@ -46,5 +46,6 @@ collaborations: |-
 
   Dans certains cas, la combinaison de différentes approches peut favoriser l’atteinte de résultats. Pour cette raison, je n’hésite pas à référer et à collaborer au besoin.
 layout: a-propos
+image: ""
 ---
 
