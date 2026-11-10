@@ -5,5 +5,6 @@ layout: raisons
 intro: |-
   <p>En plus de favoriser la détente et le bien-être, l’acupuncture permet également d’optimiser les fonctions du corps et d’augmenter la vitalité globale. Les traitements d’acupuncture s’avèrent bénéfiques autant dans une approche préventive que dans le soulagement d’une grande variété de problèmes de santé, de troubles hormonaux, de douleurs physiques ou de bouleversements psychologiques ou émotionnels.</p>
   <p>Voici quelques exemples de problèmes de santé pouvant être soulagés ou améliorés par l’acupuncture : </p>
-image: ""
+image: ''
 ---
+
