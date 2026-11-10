@@ -6,13 +6,15 @@ layout: default
 
 {% assign list_articles = site.articles | sort:"position" %}
 {% for article in list_articles %}
-<a href="{{ article.link }}" class="d-flex align-items-center">
-  <img src="{{ article.image }}">
-  <span>
+<div class="d-flex align-items-center">
+  <a href="{{ article.link }}">
+    <img src="{{ article.image }}">
+  </a>
+  <div>
     <h3>{{ article.title }}</h3>
     <!-- Bootstral <a> url button to open the link -->
     <a href="{{ article.link }}" class="btn btn-primary">Lire l'article</a>
-  </span>
-</a>
+  </div>
+</div>
 
 {% endfor %}
