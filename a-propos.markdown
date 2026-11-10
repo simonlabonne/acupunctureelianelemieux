@@ -45,7 +45,7 @@ collaborations: |-
   ## Collaborations et référencement
 
   Dans certains cas, la combinaison de différentes approches peut favoriser l’atteinte de résultats. Pour cette raison, je n’hésite pas à référer et à collaborer au besoin.
+image: "/uploads/IMG_9043_600.jpg"
 layout: a-propos
-image: ""
 ---
 
