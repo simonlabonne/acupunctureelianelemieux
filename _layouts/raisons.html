@@ -1,0 +1,33 @@
+---
+layout: default
+---
+
+<h1>{{ page.title }}</h1>
+
+<img src="{{ page.image }}" style="float: right; padding: 0 2rem; width: 600px; top: 5px; position: relative;">
+
+{{ page.intro }}
+<br>
+
+<div class="accordion" id="raisonsAccordion">
+{% assign list_raisons = site.raisons | sort:"position" %}
+{% for raison in list_raisons %}
+  <div class="card">
+    <div class="card-header" id="heading{{ raison.title | slugify }}">
+      <h3 class="m-0">
+        <button class="btn btn-link btn-block text-left" type="button" data-toggle="collapse" data-target="#collapse{{ raison.title | slugify }}" aria-expanded="true" aria-controls="collapse{{ raison.title | slugify }}">
+          <i class="fa fa-chevron-down"></i> {{ raison.title }}
+        </button>
+      </h3>
+    </div>
+    <div id="collapse{{ raison.title | slugify }}" class="collapse" aria-labelledby="heading{{ raison.title | slugify }}" data-parent="#raisonsAccordion">
+      <div class="card-body">
+        {{ raison.content }}
+      </div>
+    </div>
+  </div>
+{% endfor %}
+</div>
+
+
+{{ content }}
