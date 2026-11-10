@@ -1,7 +1,7 @@
 ---
 title: Bienfaits de l'acupuncture
 date: 2026-06-26 10:24:00 -04:00
-layout: default
+layout: bienfaits
 ---
 
 L’acupuncture est une médecine traditionnelle orientale vieille de plus de 2 000 ans, dont les fondements reposent sur l’interrelation entre le corps et l’esprit, mais également sur notre lien avec l’environnement et les grands cycles du vivant.
