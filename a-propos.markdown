@@ -1,7 +1,7 @@
 ---
 title: À propos
 date: 2026-06-26 10:07:00 -04:00
-layout: default
+layout: a-propos
 ---
 
 Intéressée par la santé et les divers facteurs qui contribuent à son équilibre, je me suis très tôt orientée vers les médecines alternatives. L’approche globale visant un soulagement des symptômes tout en portant attention à la source des déséquilibres m’a grandement interpellé. D’autant plus que le travail se fait en douceur, en profondeur et permet, dans certains cas, d’éviter ou de réduire le recours à la médication ou encore, d’atténuer certains effets indésirables pouvant y être associés.
