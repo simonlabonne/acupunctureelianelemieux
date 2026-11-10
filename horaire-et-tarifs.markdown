@@ -51,8 +51,8 @@ tarifs: |-
   <p>Reçu d'assurance de <br>(<a href="https://o-a-q.org/" target="_blank">l'Ordre des acupuncteurs du Québec</a>)</p>
 
   <p class="text-secondary"><small><em>Les frais en acupuncture sont exonérés de taxes, sont couvert par la majorité des assurances et peuvent faire partie des réclamations de frais de santé dans le rapport d’impôt.</em></small></p>
+premiere_image: "/uploads/Capture%20d%E2%80%99e%CC%81cran,%20le%202026-10-06%20a%CC%80%2016.53.20_600.png"
+deuxieme_image: "/uploads/Capture%20d%E2%80%99e%CC%81cran,%20le%202026-10-06%20a%CC%80%2016.32.02_600.png"
 layout: horaire-et-tarifs
-premiere_image: "/uploads/flower-4271835_1920.jpg"
-deuxieme_image: "/uploads/flower-4271835_1920.jpg"
 ---
 
