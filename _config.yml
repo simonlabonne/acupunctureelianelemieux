@@ -4,7 +4,7 @@ timezone: America/New_York
 collections:
   articles:
     title: Articles à lire
-    output: true
+    output: false
   faq:
     title: FAQ
     output: false
