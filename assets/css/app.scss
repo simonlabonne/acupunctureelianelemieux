@@ -160,6 +160,16 @@ p:last-child {
 
 .btn-link {
     color: $mauvep;
+    text-decoration: none;
+}
+
+.btn-block {
+    display: block;
+    width: 100%;
+}
+
+.text-left {
+    text-align: left;
 }
 
 .accordion .fa {
