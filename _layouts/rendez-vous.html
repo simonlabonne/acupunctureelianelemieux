@@ -10,27 +10,15 @@ layout: default
   </div>
   <div class="col-sm-4">
     {{ page.contact | markdownify }}
-    
-    {{ page.map }}
   </div>
 </div>
 
-<h2>Horaire</h2>
+<h2>Horaire et tarifs</h2>
 <div class="row align-items-center justify-content-md-center">
-  <div class="col-sm-4">
-    <img src="{{ page.premiere_image }}">
-  </div>
   <div class="col-sm-4">
     {{ page.horaire }}
   </div>
-</div>
-
-<h2>Tarifs</h2>
-<div class="row align-items-center justify-content-md-center">
-  <div class="col-sm-4 order-md-12">
-    <img src="{{ page.deuxieme_image }}">
-  </div>
-  <div class="col-sm-8 order-md-1"> 
+  <div class="col-sm-8> 
     <div style="text-align:center">
       {{ page.tarifs }}
     </div>
