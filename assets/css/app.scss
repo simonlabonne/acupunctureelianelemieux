@@ -1,13 +1,17 @@
 ---
 ---
 
-$mauve: #A6806A;
-$mauvef: #A6806A;
-$mauvep: #D9C2AD;
+// $mauve: #A6806A;
+// $mauvef: #A6806A;
+// $mauvep: #D9C2AD;
+
+$mauve: #a58269;
+$mauvef: #a58269;
+$mauvep: hsl(25, 25%, 33%);
 
 $noir: #000;
-$jaune: #D9C2AD;
-$jaunef: hsl(29, 37%, 36%);
+$jaune: hsl(25, 25%, 63%);
+$jaunef: hsl(25, 25%, 33%);
 
 $primary: $mauve;
 $body-color: $noir;
