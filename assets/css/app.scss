@@ -6,8 +6,8 @@
 // $mauvep: #D9C2AD;
 
 $mauve: #a58269;
-$mauvef: #a58269;
-$mauvep: hsl(25, 25%, 33%);
+$mauvep: #a58269;
+$mauvef: hsl(25, 25%, 33%);
 
 $noir: #000;
 $jaune: hsl(25, 25%, 63%);
@@ -27,7 +27,7 @@ html {
 }
 
 body {
-    background-color: hsl(28, 37%, 90%);
+    background-color: #efe5dc;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
 }
@@ -73,12 +73,12 @@ h1 {
 h2 {
     text-align: center;
     font-size: 1.75rem;
-    color: $mauve;
+    color: $mauvef;
 }
 
 h4 {
     font-size: 1.25rem;
-    color: $mauve;
+    color: $mauvef;
 }
 
 img {
@@ -163,7 +163,7 @@ p:last-child {
 }
 
 .btn-link {
-    color: $mauvef;
+    color: $mauve;
     text-decoration: none;
 }
 
