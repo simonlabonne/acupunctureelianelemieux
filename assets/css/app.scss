@@ -1,13 +1,13 @@
 ---
 ---
 
-$mauve: #2D3940;
-$mauvef: #4C5958;
-$mauvep: #B0B5BF;
+$mauve: #A6806A;
+$mauvef: #A6806A;
+$mauvep: #D9C2AD;
 
 $noir: #000;
-$jaune: #F2C185;
-$jaunef: #e9932b;
+$jaune: #D9C2AD;
+$jaunef: hsl(29, 37%, 36%);
 
 $primary: $mauve;
 $body-color: $noir;
@@ -23,7 +23,7 @@ html {
 }
 
 body {
-    background-color: #f2f2f2;
+    background-color: #e7d8cb;
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
 }
