@@ -55,7 +55,7 @@ tarifs: |-
       </tbody>
   </table>
 
-  <p>Reçu d'assurance de <br>(<a href="https://o-a-q.org/" target="_blank">l'Ordre des acupuncteurs du Québec</a>)</p>
+  <p>Reçu d'assurance de <br><a href="https://o-a-q.org/" target="_blank">l'Ordre des acupuncteurs du Québec</a></p>
 
   <p class="text-secondary"><small><em>Les frais en acupuncture sont exonérés de taxes, sont couvert par la majorité des assurances et peuvent faire partie des réclamations de frais de santé dans le rapport d’impôt.</em></small></p>
 politique: "## Politique d’annulation\n\nAfin d’offrir un service de qualité, le nombre
