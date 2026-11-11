@@ -1,6 +1,6 @@
 ---
 title: Prendre rendez-vous
-image: "/uploads/onkelglocke-thistle-5626794_600.jpg"
+image: "/uploads/hhach-chamomiles-7272602_600.jpg"
 contact: "<a class=\"btn btn-primary btn-lg\" href=\"https://www.gorendezvous.com/elianelemieux?companyId=141705\"
   target=\"_blank\">Par GOrendezvous</a> \n\nPar téléphone : <a href=\"tel:514-299-3617\">514
   299-3617</a><br>\n\nPar courriel : <a href=\"mailto:eliane.lemieux.ac@gmail.com\">eliane.lemieux.ac@gmail.com</a><br>\n\nJe
