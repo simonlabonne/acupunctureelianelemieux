@@ -37,19 +37,19 @@ tarifs: |-
   <table class="table table-striped">
       <tbody>
       <tr>
-          <td>1<sup>er</sup> rendez-vous (Réservez 75 mins à votre agenda)</td>
+          <td>1<sup>er</sup> rendez-vous (75 minutes)</td>
           <td class="has-text-right">120&nbsp;$</td>
       </tr>
       <tr>
-          <td>Suivi (Réservez 60 mins à votre agenda)</td>
+          <td>Suivi (60 minutes)</td>
           <td class="has-text-right">100&nbsp;$</td>
       </tr>
       <tr>
-          <td>1<sup>er</sup> rendez-vous - enfant de moins de 12 ans (Réservez 60 mins à votre agenda)</td>
+          <td>1<sup>er</sup> rendez-vous - enfant de moins de 12 ans (60 minutes)</td>
           <td class="has-text-right">100&nbsp;$</td>
       </tr>
       <tr>
-          <td>Suivi - enfant de moins de 12 ans (Réservez 45 mins à votre agenda)</td>
+          <td>Suivi - enfant de moins de 12 ans (45 minutes)</td>
           <td class="has-text-right">80&nbsp;$</td>
       </tr>
       </tbody>
