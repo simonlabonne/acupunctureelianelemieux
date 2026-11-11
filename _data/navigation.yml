@@ -2,11 +2,11 @@
   link: /a-propos
 - name: Bienfaits
   link: /bienfaits-de-lacupuncture
-- name: Pourquoi consulter
+- name: Raisons de consultation
   link: /pour-quelles-raisons-consulter-en-acupuncture
 - name: FAQ
   link: /faq
-- name: Horaire et tarifs
-  link: /horaire-et-tarifs
 - name: Prendre rendez-vous
   link: /rendez-vous
+- name: Articles à lire
+  link: /articles
