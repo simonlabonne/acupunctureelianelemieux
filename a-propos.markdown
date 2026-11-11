@@ -16,7 +16,7 @@ parcours: |-
 
   ### Plus de 6000 heures de formations en médecines alternatives
 
-  **Diplôme en acupuncture** *(Technique au cégep de Rosemont incluant 2000h de formation spécifique à l’acupuncture)*
+  ***Diplôme en acupuncture*** *(Technique au cégep de Rosemont incluant 2000h de formation spécifique à l’acupuncture)*
 
   *Formations continues :*
 
