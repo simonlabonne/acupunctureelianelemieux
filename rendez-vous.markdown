@@ -58,16 +58,22 @@ tarifs: |-
   <p>Reçu d'assurance de <br><a href="https://o-a-q.org/" target="_blank">l'Ordre des acupuncteurs du Québec</a></p>
 
   <p class="text-secondary"><small><em>Les frais en acupuncture sont exonérés de taxes, sont couvert par la majorité des assurances et peuvent faire partie des réclamations de frais de santé dans le rapport d’impôt.</em></small></p>
-politique: "## Politique d’annulation\n\nAfin d’offrir un service de qualité, le nombre
-  de rendez-vous par semaine est limité, c’est pourquoi une annulation de dernière
-  minute a un impact important.\n\nPour cette raison, un avis minimal de 24h est demandé
-  pour tout changement à l’horaire ou annulation de rendez-vous.\n\nLes annulations
-  faites entre 24h et 12h d’avis occasionneront des frais de 60% du montant de la
-  séance réservée à l’agenda. À moins de 12h d’avis, la totalité du montant prévu
-  pour la séance sera demandée. \n\nDans une situation où il vous ne pouvez vous présenter
-  pour une raison inattendue, il est possible d’offrir votre place à un proche (famille
-  ou ami.e.s) afin d’éviter les frais.\n\nMerci de votre compréhension et de votre
-  collaboration!"
+politique: |-
+  ## Politique d’annulation
+
+  Afin d’offrir un service de qualité, le nombre de rendez-vous par semaine est limité, c’est pourquoi une annulation de dernière minute a un impact important.
+
+  Pour cette raison, un avis minimal de 24h est demandé pour tout changement à l’horaire ou annulation de rendez-vous.
+
+  FRAIS D'ANNULATION :
+
+  Entre 24h et 12h d'avis : 60$
+
+  À moins de 12h d'avis : 75% du montant de la séance prévue à l'horaire.
+
+  Dans une situation où vous ne pouvez vous présenter pour une raison inattendue, il est possible d’offrir votre place à un proche (famille ou ami.e.s) afin d’éviter les frais.
+
+  Merci de votre compréhension et de votre collaboration !
 layout: rendez-vous
 ---
 
