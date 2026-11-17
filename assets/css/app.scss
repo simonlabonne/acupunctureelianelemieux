@@ -1,19 +1,17 @@
 ---
 ---
 
-// $mauve: #A6806A;
-// $mauvef: #A6806A;
-// $mauvep: #D9C2AD;
+// ### Terra Colors ###
 
-$mauve: #a58269;
-$mauvep: #a58269;
-$mauvef: #69513f;
+$terra: #9A744A;
+$terraf: hsl(32, 35%, 65%);
+$terrap: hsl(32, 35%, 35%);
 
 $noir: #000;
-$jaune: hsl(25, 25%, 63%);
-$jaunef: hsl(25, 25%, 33%);
+$jaune: hsl(32, 35%, 65%);
+$jaunef: hsl(32, 35%, 35%);
 
-$primary: $mauve;
+$primary: $terra;
 $body-color: $noir;
 
 @import "main";
@@ -52,7 +50,7 @@ li::marker {
 }
 
 .text-secondary {
-    color: $mauvef!important;
+    color: $terraf!important;
 }
 
 .navbar {
@@ -68,18 +66,18 @@ h1, h2, h3 {
 h1 {
     text-align: center;
     font-size: 2rem;
-    color: $mauvef;
+    color: $terraf;
 }
 
 h2 {
     text-align: center;
     font-size: 1.75rem;
-    color: $mauvef;
+    color: $terraf;
 }
 
 h4 {
     font-size: 1.25rem;
-    color: $mauvef;
+    color: $terraf;
 }
 
 img {
@@ -91,7 +89,7 @@ img {
 }
 
 .alert-dark {
-    background: $mauvef;
+    background: $terra;
     text-align: center;
     margin: 0;
     border-radius: 0;
@@ -164,7 +162,7 @@ p:last-child {
 }
 
 .btn-link {
-    color: $mauve;
+    color: $terra;
     text-decoration: none;
 }
 
