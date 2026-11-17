@@ -2,13 +2,14 @@
 title: Prendre rendez-vous
 image: "/uploads/hhach-chamomiles-7272602_600.jpg"
 contact: "<a class=\"btn btn-primary btn-lg\" href=\"https://www.gorendezvous.com/elianelemieux?companyId=141705\"
-  target=\"_blank\">Par GOrendezvous</a> \n\nPar téléphone : <a href=\"tel:514-299-3617\">514
-  299-3617</a><br>\n\nPar courriel : <a href=\"mailto:eliane.lemieux.ac@gmail.com\">eliane.lemieux.ac@gmail.com</a><br>\n\nJe
+  target=\"_blank\">Par GOrendezvous</a> \n\nPar téléphone : <a style=\"font-size:
+  14px;font-family: sans-serif;\" href=\"tel:514-299-3617\">514 299-3617</a><br>\n\nPar
+  courriel : <a href=\"mailto:eliane.lemieux.ac@gmail.com\">eliane.lemieux.ac@gmail.com</a><br>\n\nJe
   pratique à Ahuntsic-Cartierville sur la rue de Lille dans mon bureau annexé à mon
   domicile. L’adresse exacte vous sera communiquée lors de la prise de rdv. "
 premiere_image: "/uploads/Capture%20d%E2%80%99e%CC%81cran,%20le%202026-10-06%20a%CC%80%2016.53.20_600.png"
 horaire: |-
-  <table class="table table-striped" style="width:100%">
+  <table class="table table-striped" style="width:100%;font-size: 14px;font-family: sans-serif;">
       <tbody>
           <tr>
               <td>Lundi</td>
@@ -34,7 +35,7 @@ horaire: |-
   </table>
 deuxieme_image: "/uploads/Capture%20d%E2%80%99e%CC%81cran,%20le%202026-10-06%20a%CC%80%2016.32.02_600.png"
 tarifs: |-
-  <table class="table table-striped">
+  <table class="table table-striped" style="width:100%;font-size: 14px;font-family: sans-serif;">
       <tbody>
       <tr>
           <td>1<sup>er</sup> rendez-vous (75 minutes)</td>
