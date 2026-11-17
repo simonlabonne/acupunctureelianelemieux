@@ -13,7 +13,7 @@ layout: default
 <br>
 
 <div class="accordion" id="faqAccordion">
-{% assign list_faq = site.faq | sort:"position" %}
+{% assign list_faq = site.faq | sort:'position' %}
 {% for faq in list_faq %}
   <div class="card">
     <div class="card-header" id="heading{{ faq.title | slugify }}">

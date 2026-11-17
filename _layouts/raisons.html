@@ -16,7 +16,7 @@ layout: default
 <br>
 
 <div class="accordion" id="raisonsAccordion">
-{% assign list_raisons = site.raisons | sort:"position" %}
+{% assign list_raisons = site.raisons | sort:'position' %}
 {% for raison in list_raisons %}
   <div class="card">
     <div class="card-header" id="heading{{ raison.title | slugify }}">
