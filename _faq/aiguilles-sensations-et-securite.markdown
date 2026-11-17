@@ -1,6 +1,7 @@
 ---
 title: Aiguilles, sensations et sécurité
 date: 2026-11-10 10:53:00 -05:00
+position: 3
 ---
 
 ## Aiguilles stériles à usage unique
