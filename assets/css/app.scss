@@ -62,11 +62,15 @@ li::marker {
 .navbar {
     margin-bottom: 4rem;
     padding: 2rem;
-    letter-spacing: 1.5px;
-    font-size: 14px;
     a {
         text-decoration: none;
     }
+}
+
+.navbar-nav {
+    letter-spacing: 1.5px;
+    font-size: 14px;
+    font-family: sans-serif;
 }
 
 h1, h2, h3 {
