@@ -4,9 +4,15 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 
-<img src="{{ page.image }}" style="float: right; padding: 0 2rem; width: 600px; top: 5px; position: relative;">
+<div class="row align-items-center justify-content-md-center">
+  <div class="mb-3 mb-sm-0 col-sm-3 order-first order-sm-2">
+    <img src="{{ page.image }}">
+  </div>
+  <div class="col-sm-8">
+    {{ page.intro }}
+  </div>
+</div>
 
-{{ page.intro }}
 <br>
 
 <div class="accordion" id="raisonsAccordion">
