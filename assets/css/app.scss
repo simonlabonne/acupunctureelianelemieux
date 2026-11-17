@@ -10,7 +10,7 @@ $terraf: hsl(32, 35%, 35%);
 $terratexte: hsl(32, 35%, 25%);
 
 $noir: #000;
-$jaune: hsl(32, 35%, 65%);
+$jaune: hsl(32, 35%, 55%);
 $jaunef: hsl(32, 35%, 35%);
 
 $primary: $bleu;
@@ -38,8 +38,9 @@ body {
 a {
     color: $jaunef;
     &:hover {
-        color: $jaunef;
+        color: $jaune;
     }
+    text-decoration: underline;
 }
 
 table {
@@ -51,7 +52,7 @@ small, .small {
 }
 
 li::marker {
-    color: $jaune;
+    color: $jaunef;
 }
 
 .text-secondary {
