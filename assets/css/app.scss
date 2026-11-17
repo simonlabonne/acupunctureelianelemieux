@@ -69,8 +69,9 @@ li::marker {
 
 .navbar-nav {
     letter-spacing: 1.5px;
-    font-size: 14px;
+    font-size: 12px;
     font-family: sans-serif;
+    text-transform: uppercase;
 }
 
 h1, h2, h3 {
@@ -136,12 +137,6 @@ li {
 
 .jumbotron {
     border-radius:0;
-}
-
-.navbar-nav {
-    text-transform: uppercase;
-    font-weight: 400;
-    font-size: 15px;
 }
 
 .row {
