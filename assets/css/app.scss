@@ -104,6 +104,11 @@ img {
 .btn-primary {
     color: #fff;
     background-color: $terra;
+    border-color: $terra;
+    &:hover {
+        background-color: $terratexte;
+        border-color: $terratexte;
+    }
 }
 
 .table {
@@ -153,8 +158,11 @@ p:last-child {
 }
 
 .btn-link {
-    color: $terra;
+    color: $terraf;
     text-decoration: none;
+    &:hover {
+        color: $terratexte;
+    }
 }
 
 .btn-block {
