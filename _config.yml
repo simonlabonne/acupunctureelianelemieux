@@ -5,12 +5,12 @@ collections:
   articles:
     title: Articles à lire
     output: false
-  faq:
-    title: FAQ
-    output: false
   posts:
     title: Posts
     output: true
+  faq:
+    title: Questions fréquentes
+    output: false
   raisons:
     title: Raisons de consulter
     output: false
