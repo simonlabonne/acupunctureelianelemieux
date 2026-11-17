@@ -17,8 +17,10 @@ $body-color: $noir;
 @import "main";
 
 // @import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700');
-@import url('https://fonts.googleapis.com/css2?family=Cutive+Mono');
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+// @import url('https://fonts.googleapis.com/css2?family=Cutive+Mono');
+// @import url('https://fonts.googleapis.com/css2?family=Open+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300..700;1,300..700&display=swap');
 
 html {
     font-size: 16px;
@@ -26,7 +28,7 @@ html {
 
 body {
     background-color: #efe5dc;
-    font-family: 'Open Sans', sans-serif;
+    font-family: "Cormorant Garamond", serif;
     font-weight: 400;
 }
 
@@ -56,10 +58,12 @@ li::marker {
 .navbar {
     margin-bottom: 2rem;
     padding: 2rem;
+    letter-spacing: 1.5px;
+    font-size: 14px;
 }
 
 h1, h2, h3 {
-    font-family: 'Cutive Mono', monospace;
+    font-family: "Libre Caslon Display", serif;
     margin-bottom: 3rem;
 }
 
