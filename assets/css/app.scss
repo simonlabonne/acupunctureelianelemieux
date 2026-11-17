@@ -4,6 +4,7 @@
 // ### Terra Colors ###
 
 $bleu: #2E3B40;
+$terra: hsl(32, 35%, 45%);
 $terraf: hsl(32, 35%, 65%);
 $terrap: hsl(32, 35%, 35%);
 
@@ -90,23 +91,6 @@ img {
 
 .navbar-dark .navbar-nav .nav-link {
     color: #fff;
-}
-
-.alert-dark {
-    background: $terra;
-    text-align: center;
-    margin: 0;
-    border-radius: 0;
-    h2 {
-        color:#fff;
-        text-transform: uppercase;
-    }
-    color: #fff;
-    p {
-        margin-bottom: 1rem;
-        margin: 2rem 0 !important;
-        margin-top: -1rem!important;
-    }
 }
 
 .card-header {
