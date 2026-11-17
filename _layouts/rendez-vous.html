@@ -16,15 +16,14 @@ layout: default
 <br>
 <br>
 
-<h2>Horaire et tarifs</h2>
 <div class="row justify-content-md-center">
   <div class="col-sm-4">
+    <h2>Horaire</h2>
     {{ page.horaire }}
   </div>
   <div class="col-sm-6"> 
-    <div>
-      {{ page.tarifs }}
-    </div>
+    <h2>Tarifs</h2>
+    {{ page.tarifs }}
   </div>
 </div>
 
@@ -33,6 +32,8 @@ layout: default
     {{ page.recu | markdownify }}
   </div>
 </div>
+
+<br>
 
 <div class="row align-items-center justify-content-md-center text-center">
   <div class="col-sm-8">

@@ -71,24 +71,26 @@ li::marker {
 
 h1, h2, h3 {
     font-family: "Libre Caslon Display", serif;
-    margin-bottom: 3rem;
 }
 
 h1 {
     text-align: center;
     font-size: 2rem;
+    margin-bottom: 3rem;
     color: $terratexte;
 }
 
 h2 {
     text-align: center;
     font-size: 1.75rem;
+    margin-bottom: 2rem;
     color: $terratexte;
 }
 
 h3, h4 {
     font-size: 1.25rem;
     color: $terratexte;
+    margin-bottom: 2rem;
 }
 
 img {
