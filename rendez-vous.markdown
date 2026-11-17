@@ -35,7 +35,7 @@ horaire: |-
   </table>
 deuxieme_image: "/uploads/Capture%20d%E2%80%99e%CC%81cran,%20le%202026-10-06%20a%CC%80%2016.32.02_600.png"
 tarifs: |-
-  <table class="table table-striped" style="width:100%;font-size: 14px;font-family: sans-serif;">
+  <table class="table table-striped" style="font-size: 14px;font-family: sans-serif;">
       <tbody>
       <tr>
           <td>1<sup>er</sup> rendez-vous (75 minutes)</td>
