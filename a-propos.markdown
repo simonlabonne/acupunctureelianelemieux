@@ -12,9 +12,9 @@ intro: |-
 
   Bienvenu.e.s !
 parcours: |-
-  ## Parcours
+  <h2 style="text-align:center;">Parcours</h2>
 
-  ### Plus de 6000 heures de formations en médecines alternatives
+  <h3 style="text-align:center;">Plus de 6000 heures de formations en médecines alternatives</h3>
 
   ***Diplôme en acupuncture*** *(Technique au cégep de Rosemont incluant 2000h de formation spécifique à l’acupuncture)*
 
