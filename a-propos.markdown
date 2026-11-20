@@ -40,7 +40,7 @@ parcours: |-
 
   ***Diplôme en masso-kinésithérapie et formations continues*** (1500 h)
 
-  \* les formations en herboristerie et en massothérapie sont ici à titre indicatif, mais ne font pas partie des traitements en acupuncture.
+  \* Les formations en herboristerie et en massothérapie sont à titre indicatif, mais ne font pas partie des traitements en acupuncture.
 collaborations: |-
   ## Collaborations et référencement
 
