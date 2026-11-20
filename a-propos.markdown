@@ -2,9 +2,9 @@
 title: À propos
 date: 2026-06-26 10:07:00 -04:00
 intro: |-
-  Intéressée par la santé et les divers facteurs qui contribuent à son équilibre, je me suis très tôt orientée vers les médecines alternatives. Leur approche globale qui s'attarde autant au soulagement des symptômes qu’à la source des déséquilibres et leurs effets bénéfiques qui permettent souvent d’éviter le recours à la médication, de la réduire ou d’atténuer les effets indésirables, en fond, selon moi, des soins de premier choix.
+  Intéressée par la santé et les divers facteurs qui contribuent à son équilibre, je me suis très tôt orientée vers les médecines alternatives. Leur approche globale qui s'attarde autant au soulagement des symptômes qu’à la source des déséquilibres ainsi que leurs effets bénéfiques qui permettent souvent d’éviter le recours à la médication, de la réduire ou d’atténuer les effets indésirables, en font, selon moi, des soins de premier choix.
 
-  Je suis thérapeute depuis 2001, d’abord comme masso-kinésithérapeute, puis comme herboriste-naturopathe et finalement comme acupunctrice. Depuis toutes ces années, j’ai le bonheur d’accompagner des personnes de tous âges et avec des conditions variées dans une démarche visant le bien-être et la vitalité, autant lors de déséquilibres particuliers que pour maintenir la santé.
+  Je suis thérapeute depuis 2001, d’abord comme masso-kinésithérapeute, puis comme herboriste-naturopathe et finalement comme acupunctrice. Depuis toutes ces années, j’ai le bonheur d’accompagner des personnes de tous âges avec des conditions variées dans une démarche visant le bien-être et la vitalité, autant lors de déséquilibres particuliers que pour maintenir la santé.
 
   Mon approche est axée sur l’écoute, le respect, la douceur et l’honnêteté.
 
