@@ -1,5 +1,5 @@
 ---
-title: Combien de séances sont nécessaires pour obtenir un résultat?
+title: Combien de séances sont nécessaires pour obtenir un résultat ?
 date: 2026-11-10 10:51:00 -05:00
 position: 1
 ---
