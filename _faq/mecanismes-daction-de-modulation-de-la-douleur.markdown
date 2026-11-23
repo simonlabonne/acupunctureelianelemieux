@@ -1,7 +1,7 @@
 ---
 title: Mécanismes d’action de modulation de la douleur
 date: 2026-11-10 10:52:00 -05:00
-position: 4
+position: 5
 ---
 
 Voici deux mécanismes permettant d’expliquer la modulation de la douleur par l’acupuncture :
