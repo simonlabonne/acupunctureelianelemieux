@@ -4,4 +4,4 @@ date: 2026-11-10 09:43:00 -05:00
 position: 11
 ---
 
-Anxiété, stress, nervosité, dépression, fatigue, tics, vertiges, tremblements, syndrome des jambes sans repos, etc.
+Anxiété, stress, nervosité, dépression, fatigue, tics, vertiges, tremblements, syndrome des jambes sans repos, douleur causée par une atteinte nerveuse, etc.
