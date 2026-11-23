@@ -1,5 +1,5 @@
 ---
-title: Faut-il croire en l’acupuncture pour que cela fonctionne?
+title: Faut-il croire en l’acupuncture pour que cela fonctionne ?
 date: 2026-11-10 10:52:00 -05:00
 position: 4
 ---
