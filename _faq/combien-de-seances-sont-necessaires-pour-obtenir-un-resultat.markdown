@@ -6,14 +6,14 @@ position: 1
 
 Différents facteurs influencent les résultats de traitement.
 
-Si le problème est récent et que la condition de santé générale est bonne, l’amélioration tend à être plus rapide.
+Un problème récent avec une bonne condition de santé générale favorisent la rapidité d'obtention de résultats.
 
-À l’opposé, si la condition est chronique, présente depuis plusieurs mois ou années, qu’il y a une prise de médicaments ou une condition de santé fragile, l’amélioration se fait généralement plus lentement. Il faut alors être patient et persévérer dans les traitements.
+Une condition chronique, présente depuis plusieurs mois ou années, une prise de plusieurs médicaments ou une condition de santé fragile, sont des facteurs qui ralentissent la vitesse d'obtention de résultat. Il faut alors simplement être patient et persévérer dans les traitements.
 
 Dans tous les cas, il est conseillé de prévoir une séquence d’environ 3 traitements rapprochés, dans un délai d’une semaine ou moins pour optimiser l’obtention de résultats.
 
-De façon générale une amélioration est ressentie en 1 à 5 séances.
+De façon générale une amélioration ou un changement, quelle qu'il soit, est ressenti dès la première séance et évolue au fil des traitements.
 
 *À savoir :*
 
-Au départ, l’emphase du traitement est mise sur les symptômes les plus incommodants. Lorsque ceux-ci s’apaisent, les traitements subséquents incluent alors des points pour traiter la condition sous-jacente, « le terrain », qui fragilise l’organisme. Cette étape permet de consolider les traitements, de favoriser une guérison durable et d’améliorer la santé globale.
+Lors du premier traitement, l’emphase est mise sur les symptômes les plus incommodants. Lorsque ceux-ci s’apaisent, les traitements subséquents incluent alors des points pour traiter la condition sous-jacente, « le terrain », qui fragilise l’organisme. Cette étape permet de consolider les traitements pour ainsi favoriser une guérison durable et améliorer la santé globale.
