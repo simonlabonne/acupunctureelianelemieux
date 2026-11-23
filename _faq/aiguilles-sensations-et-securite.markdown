@@ -12,8 +12,6 @@ Les aiguilles utilisées en acupuncture au Québec sont stériles, à usage uniq
 
 Les aiguilles sont très fines (à peine plus grosses qu’un cheveu) et n’occasionnent généralement aucune douleur ou parfois une légère sensation à l’insertion.
 
-Par ailleurs, il peut arriver qu’un léger inconfort soit ressenti, qui normalement se dissipe en quelques secondes. Si toutefois cet inconfort perdure, l’aiguille est alors retirée puisque l’objectif est que vous puissiez vous détendre durant le traitement.
+Par ailleurs, il peut arriver qu’un léger inconfort soit ressenti à l'insertion d'une aiguille, qui normalement se dissipe en quelques secondes. Si toutefois cet inconfort perdure, l’aiguille est alors retirée. Le confort de la personne est une priorité et l’objectif est toujours de favoriser la détendre durant le traitement.
 
-La sensibilité aux aiguilles varie d’une personne à l’autre, selon l’âge, certaines zones du corps, de l’état de fatigue ou à certains moments du cycle hormonal.
-
-Le choix d’aiguilles est adapté en fonction de ces divers aspects.
+La sensibilité aux aiguilles varie d’une personne à l’autre, selon l’âge, certaines zones du corps, de l’état de fatigue ou à certains moments du cycle hormonal. Le choix d’aiguilles est adapté en fonction de ces divers aspects.
