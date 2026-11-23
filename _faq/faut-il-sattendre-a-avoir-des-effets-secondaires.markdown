@@ -1,7 +1,7 @@
 ---
 title: Faut-il s’attendre à avoir des effets secondaires ?
 date: 2026-11-10 10:54:00 -05:00
-position: 5
+position: 3
 ---
 
 De façon générale, après un traitement la sensation est principalement agréable.
