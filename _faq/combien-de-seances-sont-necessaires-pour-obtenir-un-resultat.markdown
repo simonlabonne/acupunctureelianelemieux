@@ -8,7 +8,7 @@ Différents facteurs influencent les résultats de traitement.
 
 Par exemple, un problème récent chez une personne avec une bonne condition de santé générale favorise la rapidité d'obtention de résultat.
 
-À l'opposé, une condition chronique, présente depuis plusieurs mois ou années, une personne qui prend plusieurs médicaments ou qui a une condition de santé fragile, ralentit la vitesse d'obtention de résultat. Il faut alors simplement être patient et persévérer dans les traitements.
+À l'opposé, un problème chronique, présent depuis plusieurs mois ou années, une prise de plusieurs médicaments ou une condition de santé fragile, sont des facteurs ralentissant la rapidité d'obtention de résultat. Il faut alors simplement être patient et persévérer dans les traitements.
 
 Dans tous les cas, il est conseillé de prévoir une séquence d’environ 3 traitements rapprochés, dans un délai d’une semaine ou moins afin d'optimiser l’obtention de résultats.
 
