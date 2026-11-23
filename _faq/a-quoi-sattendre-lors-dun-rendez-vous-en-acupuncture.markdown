@@ -1,11 +1,18 @@
 ---
-title: À quoi s’attendre lors d’un rendez-vous en acupuncture?
+title: À quoi s’attendre lors d’un rendez-vous en acupuncture ?
 date: 2026-11-10 10:51:00 -05:00
 position: 0
 ---
 
-Lors de la prise du premier rendez-vous, un formulaire à remplir est envoyé par courriel. Cette étape me permet de prendre connaissance de votre raison de consultation avant la rencontre et de recueillir à l’avance vos informations médicales et antécédents de santé. Lors de la première rencontre, plusieurs questions en lien avec la raison de consultation et votre santé globale sont posées, la langue est observée et le pouls radial (au niveau des poignets) est palpé. Cette cueillette d’informations exhaustive permet de prodiguer un traitement sécuritaire et adapté à votre condition.
+Avant la première rencontre: 
+- Remplir un formulaire regroupant vos informations médicales et antécédents de santé.
 
-Les aiguilles sont ensuite installées sur des points spécifiques pour y demeurer une vingtaine de minutes durant lesquelles vous pouvez vous détendre dans une atmosphère calme et paisible.
+Première rencontre : 
+- Répondre à plusieurs questions liées à vos symptômes, à votre santé globale et à votre hygiène de vie.
+- Observation de la langue et palpation du pouls radial (aux poignets).
+- Temps de traitement avec aiguilles environ 20 minutes.
 
-Lors des rendez-vous de suivis la période de questions est moins exhaustive ce qui augmente le temps de traitement à environ 30-35 minutes.
+Suivis :
+- Retour sur vos symptômes à chaque rencontre pour suivre l’évolution et adapter les traitements au besoin.
+- Observation de la langue et palpation du pouls radial (aux poignets).
+- Temps de traitement avec aiguilles et autres instruments selon les cas entre 25 et 35 mins.
