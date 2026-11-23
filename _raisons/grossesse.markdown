@@ -1,7 +1,7 @@
 ---
 title: Grossesse
 date: 2026-11-10 09:44:00 -05:00
-position: 8
+position: 9
 ---
 
 *Inconforts liés à la grossesse* : Douleurs, jambes enflées, nausées, troubles digestifs, problèmes de sommeil, anxiété, hémorroïdes.
