@@ -26,7 +26,7 @@ parcours: |-
 
   * À venir en janvier 2027 : Les addictions, méthode Chiapi (Yves Requena)
 
-  * 2026 : Approche méridiens par la technique du Dr Tan niveau 1 et 2 (Frédéric Bourges)
+  * 2026 : Approche méridiens par la technique du Dr Tan (Frédéric Bourges)
 
   * 2026 : Recherches scientifiques en acupuncture (Stéphanie Racette)
 
