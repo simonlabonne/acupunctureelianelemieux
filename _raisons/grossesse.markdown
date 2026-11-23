@@ -4,6 +4,6 @@ date: 2026-11-10 09:44:00 -05:00
 position: 15
 ---
 
-*Inconforts liés à la grossesse* : Douleurs, jambes enflées, nausées, troubles digestifs, problèmes de sommeil, anxiété, hémorroïdes.
+*Inconforts liés à la grossesse* : Douleurs, jambes enflées, nausées, troubles digestifs, problèmes de sommeil, anxiété, hémorroïdes, etc.
 
-*Préparation à l’accouchement* : Bébé dans la mauvaise position en fin de grossesse, déclanchement d’accouchement.
+*Préparation à l’accouchement* : Bébé dans la mauvaise position en fin de grossesse, déclenchement de l'accouchement.
