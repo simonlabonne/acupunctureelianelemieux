@@ -1,7 +1,7 @@
 ---
 title: Faut-il croire en l’acupuncture pour que cela fonctionne ?
 date: 2026-11-10 10:52:00 -05:00
-position: 4
+position: 2
 ---
 
 L’efficacité d’un traitement en acupuncture n’est pas en lien avec le fait d’y croire ou non. Quoique le fonctionnement et les mécanismes d’actions de cette approche ne soient pas complètement élucidé par la science à ce jour, les études scientifiques sur cette médecine millénaire sont de plus en plus nombreuses et plusieurs d’entre elles démontrent ses bienfaits, notamment sur l’inflammation, la diminution de la douleur et la réduction du stress ou de l’anxiété.
