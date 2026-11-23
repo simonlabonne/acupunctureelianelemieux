@@ -40,7 +40,7 @@ parcours: |-
 
   ***Diplôme en masso-kinésithérapie et formations continues*** (1500 h)
 
-  \À noter: Quoique mon expérience comme masso-kinésithérapeute et herboriste-naturopathe puisse enrichir ma pratique et mon raisonnement thérapeutique, ces approches ne peuvent être jumelées aux traitements d'acupuncture en raison des règlements de l'Ordre des acupuncteurs du Québec.
+  À noter : Quoique mon expérience comme masso-kinésithérapeute et herboriste-naturopathe puisse enrichir ma pratique et mon raisonnement thérapeutique, ces approches ne peuvent être jumelées aux traitements d'acupuncture en raison des règlements de l'Ordre des acupuncteurs du Québec.
 collaborations: |-
   ## Collaborations et référencement
 
