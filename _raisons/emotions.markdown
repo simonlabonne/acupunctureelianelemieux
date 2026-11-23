@@ -4,4 +4,4 @@ date: 2026-11-10 09:43:00 -05:00
 position: 12
 ---
 
-Manque de motivation, irritabilité, colère, tristesse.
+Stress, irritabilité, colère, tristesse, manque de motivation, etc.
