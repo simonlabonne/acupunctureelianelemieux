@@ -18,7 +18,7 @@ parcours: |-
 
   ***Diplôme en acupuncture*** *(Technique au cégep de Rosemont incluant 2000h de formation spécifique à l’acupuncture)*
 
-  *Formations continues :*
+  Formations continues :
 
   * À venir en mai 2027 : L’art des pouls (Jean Motte)
 
