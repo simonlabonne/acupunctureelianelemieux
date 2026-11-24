@@ -4,11 +4,11 @@ date: 2026-11-10 10:53:00 -05:00
 position: 4
 ---
 
-Aiguilles stériles à usage unique
+#Aiguilles stériles à usage unique
 
 Les aiguilles utilisées en acupuncture au Québec sont stériles, à usage unique et disposées de façon sécuritaire dans des bacs de déchets bio-médicaux. Ces bacs sont ensuite gérés par des compagnies spécialisées qui détruisent les aiguilles.
 
-Aiguilles et sensations
+#Aiguilles et sensations
 
 Les aiguilles sont très fines (à peine plus grosses qu’un cheveu) et n’occasionnent généralement aucune douleur ou parfois une légère sensation à l’insertion.
 
