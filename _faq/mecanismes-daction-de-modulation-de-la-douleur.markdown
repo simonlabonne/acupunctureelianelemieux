@@ -12,8 +12,8 @@ La moelle épinière agit comme une porte qui filtre les signaux de douleur avan
 
 **CIDN** (Contrôle inhibiteur diffus induit par la nociception)
 
-Le CIDN est un mécanisme neurologique basé sur le principe que « la douleur inhibe la douleur ». Lorsqu’une nouvelle douleur survient à un endroit éloigné de la zone douloureuse initiale, le tronc cérébral libère alors des substances antidouleur comme des endorphines. Cette réponse bloque alors les signaux douloureux provenant du reste du corps et permet ainsi au cerveau de **focaliser son attention** sur le nouveau signal douloureux.
+Le CIDN est un mécanisme neurologique basé sur le principe que « la douleur inhibe la douleur ». Lorsqu’une nouvelle douleur survient à un endroit éloigné de la zone douloureuse initiale, le tronc cérébral libère alors des substances antidouleur comme des endorphines. Cette réponse bloque alors les signaux douloureux provenant du reste du corps et permet ainsi au cerveau de focaliser son attention sur le nouveau signal douloureux.
 
 Dans les traitements d’acupuncture, le fait d’insérer une aiguille à distance de la douleur et de la stimuler doucement permet d’activer ce mécanisme.
 
-En combinant ces deux mécanismes, l'acupuncture parvient à **fermer la « porte locale »** à la douleur (portillon) tout en permettant au corps de produire des antidouleurs naturels (CIDN).
+En combinant ces deux mécanismes, l'acupuncture parvient à fermer la « porte locale » à la douleur (portillon) tout en permettant au corps de produire des antidouleurs naturels (CIDN).
